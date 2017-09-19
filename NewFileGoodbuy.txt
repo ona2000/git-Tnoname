@@ -2,3 +2,4 @@ I created new file goodbuy.
 I did mistake in the word goodbye.
 Done.
 I did some coments after creating a new branch
+This is conflict for my NEW_Branch
